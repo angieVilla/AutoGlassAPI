@@ -3,6 +3,7 @@ Technical Test
 
 This test contains two projects:
 WebAPI -> Content all methods to get, insert, update and delete Products and Suppliers
+
 To do this was used next libraries:
     Include="Microsoft.EntityFrameworkCore" Version="6.0.6"
     Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.6"
